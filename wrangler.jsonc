@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sortlink",
+  "main": "src/index.js",
+  "compatibility_date": "2025-09-06",
+"kv_namespaces": [
+  {
+    "binding": "LINKS_DB",
+    "id": "f91b0b2601f146cf8740fb9af768ff68",
+    "preview_id": "f91b0b2601f146cf8740fb9af768ff68"
+  }
+]
+}
